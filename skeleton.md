@@ -1,0 +1,1 @@
+The page will go into horizontal mode and all the right side elements go down that can make the page look bad. It is better to use responsive code ie. mediaquery to max-width 500px and change the code according to that. 
